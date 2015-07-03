@@ -1,0 +1,2 @@
+# StateSpaceSearch
+Artificial intelligence assignment.
