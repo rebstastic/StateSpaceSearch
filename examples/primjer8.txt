@@ -1,0 +1,4 @@
+P T T T 
+T T T T 
+1 1 T C 
+T T 1 1 
